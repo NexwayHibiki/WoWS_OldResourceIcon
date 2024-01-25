@@ -4,10 +4,10 @@ This mod replaces resource (like doubloons, credits) icons with older version st
 If you still like the old icons, this is what you want!
 
 These icons include: 
-                              Small icons for Coal,Steel,Free XP,Ship XP,Commander XP,paragonXP,Doubloons and Credits.
+Small icons for Coal,Steel,Free XP,Ship XP,Commander XP,paragonXP,Doubloons and Credits.
 
-                              Larger icons for resources displayed during missions and when opening containers.
+Larger icons for resources displayed during missions and when opening containers.
 
-                              Old style signal flag.
+Old style signal flag.
 
-                              Removed the black background for the amount of resources.
+Removed the black background for the amount of resources.
